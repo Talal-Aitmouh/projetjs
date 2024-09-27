@@ -1,8 +1,7 @@
 Talal Projet
 Description
 
-Exercice 5 : Quiz avec réponses
-À l’intérieur d’une page HTML, on met JavaScript dans :
+Exercice 5 : Quiz :
 
 Réponse : B. <script>
 La vraie syntaxe pour changer le contenu de l’élément <span id=’span1’>test</span> est :
