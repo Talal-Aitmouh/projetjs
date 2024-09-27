@@ -1,19 +1,5 @@
 Talal Projet
 Description
-MonProjet est une application de démonstration en JavaScript ES6. Elle illustre la manipulation des tableaux, la création de fonctions fléchées, et les quiz sur les concepts de base en JavaScript. Le projet se compose de plusieurs exercices pratiques qui couvrent les bases de la programmation front-end.
-
-Fonctionnalités
-Exercice 1
-Utilisation de la méthode map() pour appliquer une transformation à un tableau.
-
-Exercice 2
-Filtrage d'un tableau d'objets pour extraire des informations spécifiques avec filter() et map().
-
-Exercice 3
-Création de fonctions fléchées pures pour gérer des opérations sur un tableau d'inscriptions.
-
-Exercice 4
-Utilisation de la méthode splice() pour insérer, supprimer et modifier des éléments dans un tableau.
 
 Exercice 5 : Quiz avec réponses
 À l’intérieur d’une page HTML, on met JavaScript dans :
